@@ -1,8 +1,8 @@
 #######################################################################################################################
-#																			           sAtUrDaY lOoPiE fUn WiTh da BoyZ
-#																										            ELS
-# 																												    TRS
-#																											       2020
+#                                                                                      sAtUrDaY lOoPiE fUn WiTh da BoyZ
+#                                                                                                                   ELS
+#                                                                                                                   TRS
+#                                                                                                                  2020
 # begin including libraries
 from colorama import Fore, Back, Style   # COLOR STUFF
 from os import system, name              # SYSTEM STUFF (console output)
