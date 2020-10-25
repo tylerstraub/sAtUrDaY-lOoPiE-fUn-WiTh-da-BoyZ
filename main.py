@@ -10,11 +10,11 @@ from time import sleep                   # SLEEP STUFF
 
 # list of foreground colors
 foregroundColors = [Fore.RED,
-					Fore.GREEN,
-					Fore.YELLOW,
-					Fore.BLUE,
-					Fore.MAGENTA,
-					Fore.CYAN]
+                    Fore.GREEN,
+                    Fore.YELLOW,
+                    Fore.BLUE,
+                    Fore.MAGENTA,
+                    Fore.CYAN]
 
 # list of background colors
 backgroundColors = [Back.CYAN,
