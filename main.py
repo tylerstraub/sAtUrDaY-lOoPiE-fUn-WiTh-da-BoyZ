@@ -18,11 +18,11 @@ foregroundColors = [Fore.RED,
 
 # list of background colors
 backgroundColors = [Back.CYAN,
-					Back.MAGENTA,
-					Back.BLUE,
-					Back.YELLOW,
-					Back.GREEN,
-					Back.RED]
+                    Back.MAGENTA,
+                    Back.BLUE,
+                    Back.YELLOW,
+                    Back.GREEN,
+                    Back.RED]
 
 # define our nifty console clearing function
 def clear():
